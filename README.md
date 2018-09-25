@@ -4,11 +4,11 @@
 
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg)](https://android-arsenal.com/api?level=19) 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Download](https://img.shields.io/badge/Download-1.0.1-B93B8F.svg) ](https://github.com/fairytale110/WedgesView/archive/1.0.1.zip)
+[![Download](https://img.shields.io/badge/Download-1.0.0-brightgreen.svg) ](https://github.com/fairytale110/SquaresLoadingView/archive/1.0.0.zip)
 
 ### Preview
 
-
+![preview.gif](https://upload-images.jianshu.io/upload_images/1781452-f256a5f5da4f9026.gif?imageMogr2/auto-orient/strip)
 
 ### Features
 

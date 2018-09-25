@@ -13,10 +13,10 @@
     <tech.nicesky.libsquaresloadingview.SquaresLoadingView
         android:id="@+id/slv_loading"
         android:padding="10dp"
-        app:slv_scale_speed="0.77"
+        app:slv_scale_speed="0.65"
         app:slv_squares_alpha="1"
         app:slv_background="@android:color/white"
-        android:layout_width="80dp"
+        android:layout_width="100dp"
         android:layout_height="200dp" />
 
 </LinearLayout>

@@ -180,7 +180,7 @@ public class SquaresLoadingView extends View {
      */
     private void anim() {
 
-        animator = ValueAnimator.ofInt(0, 330);
+        animator = ValueAnimator.ofInt(1, 500);
         animator.setRepeatMode(ValueAnimator.REVERSE);
         animator.setRepeatCount(ValueAnimator.INFINITE);
         animator.setInterpolator(new LinearInterpolator());
@@ -190,16 +190,16 @@ public class SquaresLoadingView extends View {
                 // Log.w(TAG ,"anim widthSquareScaled " + widthSquareScaled);
                 updateSquareRect();
                 postInvalidate();
-                if ((int) animation.getAnimatedValue() >= 30 && !animator1.isRunning()) {
+                if ((int) animation.getAnimatedValue() >= 120 && !animator1.isRunning()) {
                     animator1.start();
                 }
-                if ((int) animation.getAnimatedValue() >= 90 && !animator2.isRunning()) {
+                if ((int) animation.getAnimatedValue() >= 240 && !animator2.isRunning()) {
                     animator2.start();
                 }
-                if ((int) animation.getAnimatedValue() >= 180 && !animator3.isRunning()) {
+                if ((int) animation.getAnimatedValue() >= 360 && !animator3.isRunning()) {
                     animator3.start();
                 }
-                if ((int) animation.getAnimatedValue() >= 300 && !animator4.isRunning()) {
+                if ((int) animation.getAnimatedValue() >= 480 && !animator4.isRunning()) {
                     animator4.start();
                 }
             }
