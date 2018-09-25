@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SquaresLoadingView">
+        <!--SquaresLoadingView's background-->
+        <attr name="slv_background" format="reference|color" />
+        <!--square's alpha-->
+        <attr name="slv_squares_alpha" format="reference|float" />
+        <!--The rotational speed of the square's scale -->
+        <attr name="slv_scale_speed" format="reference|float" />
+    </declare-styleable>
+</resources>
