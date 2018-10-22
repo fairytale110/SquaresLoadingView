@@ -98,8 +98,6 @@ fairytale110@foxmail.com
 
 > 掘金: https://juejin.im/user/596d91ee6fb9a06bb874a800/pins
 
-> MY WEB: https://nicesky.tech
-
 
 ## LICENSE
 
