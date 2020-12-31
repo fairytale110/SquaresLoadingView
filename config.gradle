@@ -21,9 +21,9 @@ ext {
 
     dependencies = [
             junit              : 'junit:junit:4.12',
-            expressoCore       : 'com.android.support.test.espresso:espresso-core:3.0.2',
+            expressoCore       : 'androidx.test.espresso:espresso-core:3.1.0',
 
-            appCompat          : "com.android.support:appcompat-v7:${android["default_dependcy_version"]}",
+            appCompat          : 'androidx.appcompat:appcompat:1.0.0',
             design             : "com.android.support:design:${android["default_dependcy_version"]}",
 
             leakcanary         : "com.squareup.leakcanary:leakcanary-android-no-op:1.6.1",

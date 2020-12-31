@@ -1,7 +1,7 @@
 package tech.nicesky.libsquaresloadingview;
 
 import android.animation.ValueAnimator;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import java.lang.reflect.Field;
 
